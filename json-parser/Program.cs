@@ -1,0 +1,1 @@
+﻿//Check out https://jack-vanlightly.com/blog/2016/2/24/a-more-efficient-regex-tokenizer & https://www.codeproject.com/Articles/5252200/How-to-Build-a-Tokenizer-Lexer-Generator-in-Csharp 
